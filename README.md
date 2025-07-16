@@ -1,4 +1,5 @@
 What is LangGraph?
+
 **LangGraph** is an open source **framework for building, coordinating, and managing complex AI agent workflows** using a *graph-based architecture* powered by large language models (LLMs). Created by LangChain, it brings advanced orchestration, state management, and flexibility for building sophisticated AI applications that require multiple steps, decision points, and collaboration among agents or tools[2][1][6][3].
 
 ### How LangGraph Works
