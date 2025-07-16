@@ -1,0 +1,12 @@
+python -m venv myvenv
+
+myenv\Scripts\activate
+
+pip install langgraph
+
+pip install langchain
+
+pip install langchain_openai
+
+pip install dotenv
+
